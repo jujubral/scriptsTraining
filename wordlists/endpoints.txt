@@ -1,0 +1,10 @@
+api/authentication/loginsql
+admin/
+testes/go
+home/
+api/login/
+api/authentication/login
+api/User
+api/updatedocs
+api/TodoItem
+api/TodoItem/@id
